@@ -36,3 +36,10 @@ build.gradle.kts dosyasındaki bağımlılıkların yüklenmesi için "Sync Now"
 İnternet erişimi için AndroidManifest.xml dosyasında gerekli izinlerin verildiğinden emin olun.
 
 Uygulamayı bir emülatör veya fiziksel cihaz üzerinde çalıştırın.
+
+📱 Uygulama Özellikleri
+Loading State: Veriler çekilirken kullanıcıya bir yükleme göstergesi sunulur.
+
+Success State: Başarıyla çekilen veriler, dairesel profil ikonları ve iletişim bilgileriyle listelenir.
+
+Error State: Bağlantı hatalarında kullanıcıya bilgilendirme yapılır ve tekrar deneme butonu gösterilir.
