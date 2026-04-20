@@ -1,3 +1,6 @@
+<img width="465" height="790" alt="Ekran görüntüsü 2026-04-20 162223" src="https://github.com/user-attachments/assets/6515f7b1-f892-4cc0-9db5-ad1fca8241c3" />
+<img width="396" height="794" alt="Ekran görüntüsü 2026-04-20 161943" src="https://github.com/user-attachments/assets/ee3585d2-d55d-431f-a43b-f1086a225767" />
+<img width="480" height="858" alt="Ekran görüntüsü 2026-04-20 161857" src="https://github.com/user-attachments/assets/d083c481-5eb4-4a4c-b899-ebb27f4c661a" />
 User List Application (MVVM & Retrofit)
 Bu proje, modern Android geliştirme teknikleri kullanılarak hazırlanmış, JSONPlaceholder API'sinden kullanıcı verilerini çeken ve listeleyen bir Android uygulamasıdır.
 
